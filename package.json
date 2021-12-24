@@ -1,5 +1,6 @@
 {
     "author": "Keshara1997",
+    "description": "A web app that teaches people the ability to make meanimgful contribution to software projects",
     "name": "fcc-learn-npm-package-json",
     "dependencies": {
         "express": "^4.14.0"
