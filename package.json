@@ -2,7 +2,11 @@
     "author": "Keshara1997",
     "description": "A web app that teaches people the ability to make meanimgful contribution to software projects",
     "name": "fcc-learn-npm-package-json",
-    "keywords": ["Useful Programmer", "freecodecamp", "Learn to be a  programmer"],
+    "keywords": [
+        "Useful Programmer",
+        "freecodecamp",
+        "Learn to be a  programmer"
+    ],
     "license": "MIT",
     "version": "1.2.0",
     "dependencies": {
