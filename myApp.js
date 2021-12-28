@@ -21,7 +21,7 @@ var bodyParser = require('body-parser');
 
 /** 1) Meet the node console. */
 bGround.log("Hello World");
-// console.log("Hello World");
+console.log("Hello World");
 
 /** 2) A first working Express Server */
 
