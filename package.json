@@ -25,6 +25,7 @@
         "url": "https://idontknow/todo.git"
     },
     "engines": {
-        "node": "14.x"
+        "node": "v12.22.5",
+        "npm": "7.5.2"
     }
 }
